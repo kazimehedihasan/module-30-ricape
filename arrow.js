@@ -34,3 +34,6 @@ console.log(fullresult);
 const multiply = (a, b,) => a * b;
 const resulta = multiply(45, 74);
 console.log(resulta); 
+
+
+
